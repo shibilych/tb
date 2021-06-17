@@ -18,8 +18,8 @@
 /* Template custom icon Font*/
 @font-face {
     font-family: icomoon;
-    src: url(../fonts/icomoon.eot);
-    src: url(../fonts/icomoon.eot) format("embedded-opentype"), url(../fonts/icomoon.ttf) format("truetype"), url(../fonts/icomoon.woff) format("woff"), url(../fonts/icomoon.svg) format("svg");
+    src: url('https://nweb.truebays.com/wp-content/themes/techengage/assets/fonts/icomoon.eot');
+    src: url('https://nweb.truebays.com/wp-content/themes/techengage/assets/fonts/icomoon.eot') format("embedded-opentype"), url('https://nweb.truebays.com/wp-content/themes/techengage/assets/fonts/icomoon.ttf') format("truetype"), url('https://nweb.truebays.com/wp-content/themes/techengage/assets/fonts/icomoon.woff') format("woff"), url('https://nweb.truebays.com/wp-content/themes/techengage/assets/fonts/icomoon.svg') format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
