@@ -7996,4 +7996,11 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     line-height: 50px;
 }
 
+.navbar .dropdown-menu .nav__item .nav__item-link:hover {
 
+    padding: 5px 10px;
+    transition: 0.3s linear;
+    font-weight: 700;
+    color: #fff;
+    background: #00c881;
+}
