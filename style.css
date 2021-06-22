@@ -8003,3 +8003,8 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     color: #fff;
     background: #00c881;
 }
+
+
+.faq h4 {
+    margin-bottom: 0 !important;
+}
