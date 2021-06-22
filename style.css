@@ -3436,14 +3436,14 @@ input[type=radio] {
 	border: 2px solid #e7ebef;
 	background-color: #fff;
 	border-radius: 3px;
-	padding: 25px 30px;
+	padding: 20px 30px;
 	margin-bottom: 27px
 }
 
 .accordion-item .accordion-item__title {
 	font-family: "Public Sans", sans-serif;
 	font-weight: 700;
-	font-size: 18px;
+	font-size: 16px;
 	cursor: pointer;
 	display: block;
 	position: relative;
