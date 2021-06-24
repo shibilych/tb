@@ -8008,3 +8008,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 .faq h4 {
     margin-bottom: 0 !important;
 }
+
+.header .icon-search {
+    display: none;
+}
