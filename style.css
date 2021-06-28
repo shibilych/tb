@@ -3542,12 +3542,12 @@ input[type=radio] {
 
 .footer .contact-list li {
 	line-height: 26px;
-	color: rgba(255, 255, 255, .67);
+	color: #fff;
 	margin-bottom: 0
 }
 
 .footer .contact-list li a {
-	color: rgba(255, 255, 255, .67)
+	color: #fff;
 }
 
 .footer .footer-form .form-control {
@@ -8047,12 +8047,4 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
 }
 
 
-.footer .contact-list li a {
-    color: #fff !important;
-}
-
-
-.footer .contact-list li {
-    color: #fff !important;
-}
 
