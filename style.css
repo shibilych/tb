@@ -8041,3 +8041,7 @@ a.nav__item-link.dropdown-menu-title {
 .navbar .dropdown-menu.wide-dropdown-menu .dropdown-menu-title {
      margin: 0 35px 13px 40px;
 }
+
+input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
+    padding-top: 10px;
+}
