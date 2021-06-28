@@ -7996,13 +7996,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     line-height: 50px;
 }
 
-.navbar .dropdown-menu .nav__item .nav__item-link:hover {
-    padding: 5px 10px;
-    transition: 0.3s linear;
-    font-weight: 700;
-    color: #fff;
-    background: #00c881;
-}
+
 
 
 .faq h4 {
@@ -8030,7 +8024,8 @@ font-size: 15px;
 }
 
 .navbar .dropdown-menu .nav__item .nav__item-link:hover {
-    padding: 5px 10px;
+padding-left: 10px;
+    padding-right: 5px;
     transition: 0.3s linear;
     font-weight: 600;
     color: #17cd8d;
