@@ -8032,3 +8032,12 @@ padding-left: 10px;
     background: #ffffff;
 }
 
+a.nav__item-link.dropdown-menu-title {
+    text-decoration: underline;
+    font-size: 16px !important;
+}
+
+
+.navbar .dropdown-menu.wide-dropdown-menu .dropdown-menu-title {
+     margin: 0 35px 13px 40px;
+}
