@@ -8048,11 +8048,11 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
 
 
 .footer .contact-list li a {
-    color: #fff;
+    color: #fff !important;
 }
 
 
 .footer .contact-list li {
-    color: #fff;
+    color: #fff !important;
 }
 
