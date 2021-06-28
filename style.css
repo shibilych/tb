@@ -904,9 +904,9 @@ select {
 	background-size: auto!important
 }
 
-.bg-parallax {
+/* .bg-parallax {
 	background-attachment: inherit;
-}
+} */
 
 .bg-overlay:before {
 	content: '';
