@@ -905,7 +905,7 @@ select {
 }
 
 .bg-parallax {
-	background-attachment: fixed
+	background-attachment: inherit;
 }
 
 .bg-overlay:before {
