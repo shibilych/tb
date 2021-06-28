@@ -8014,3 +8014,26 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 }
 
 
+.navbar .dropdown-menu {
+    background-color: #00c881;
+}
+
+.navbar .dropdown-menu .nav__item .nav__item-link {
+    color: #ffffff;
+font-size: 15px;
+    font-weight: 600;
+}
+
+
+.navbar .dropdown-menu.wide-dropdown-menu .dropdown-menu-title {
+    color: #ffffff;
+}
+
+.navbar .dropdown-menu .nav__item .nav__item-link:hover {
+    padding: 5px 10px;
+    transition: 0.3s linear;
+    font-weight: 600;
+    color: #17cd8d;
+    background: #ffffff;
+}
+
