@@ -1135,7 +1135,7 @@ h6 {
 }
 
 .page-title .breadcrumb-item a:hover {
-	color: #0e2b5c
+	color:#00c881;
 }
 
 .page-title .btn:not(.btn__xl) {
@@ -8012,3 +8012,5 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 .header .icon-search {
     display: none;
 }
+
+
