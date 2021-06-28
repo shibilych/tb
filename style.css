@@ -3638,7 +3638,7 @@ input[type=radio] {
 }
 
 #scrollTopBtn.actived {
-	right: 30px;
+	left: 30px;
 	opacity: 1
 }
 
