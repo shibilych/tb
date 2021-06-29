@@ -8046,5 +8046,14 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
     padding-top: 10px;
 }
 
+.footer .wpcf7-submit {
+    min-height: 40px;
+    line-height: 40px;
+    background: #00c881;
+    color: #Fff !important;
+}
+.footer .wpcf7-form-control {
+    height: 43px;
+}
 
 
