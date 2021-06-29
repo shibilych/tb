@@ -8054,6 +8054,7 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
 }
 .footer .wpcf7-form-control {
     height: 43px;
+ color: #fff !important;
 }
 
 .footer .wpcf7-submit:hover {
@@ -8064,6 +8065,4 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
     transition: ease-out 0.4s !important;
 }
 
-.footer .wpcf7-text {
-    color: #fff !important;
-}
+
