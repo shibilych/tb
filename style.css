@@ -8030,6 +8030,7 @@ padding-left: 10px;
     font-weight: 600;
     color: #17cd8d;
     background: #ffffff;
+	transform: scale(1.1);
 }
 
 a.nav__item-link.dropdown-menu-title {
