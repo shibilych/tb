@@ -8065,4 +8065,6 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
     transition: ease-out 0.4s !important;
 }
 
-
+.footer input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf7-validates-as-email {
+    color: #fff !important;
+}
