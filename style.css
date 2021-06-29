@@ -8059,7 +8059,11 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
 .footer .wpcf7-submit:hover {
     color: #00c881 !important;
     background: #ffffff!important;
-    -webkit-transition: ease-out 0.4s;
-    -moz-transition: ease-out 0.4s;
-    transition: ease-out 0.4s;
+    -webkit-transition: ease-out 0.4s !important;
+    -moz-transition: ease-out 0.4s !important;
+    transition: ease-out 0.4s !important;
+}
+
+.footer .wpcf7-text {
+    color: #fff !important;
 }
