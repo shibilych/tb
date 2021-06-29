@@ -8024,6 +8024,7 @@ font-size: 15px;
 }
 
 .navbar .dropdown-menu .nav__item .nav__item-link:hover {
+	border-radius:5px;
 padding-left: 10px;
     padding-right: 5px;
     transition: 0.3s linear;
