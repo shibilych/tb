@@ -145,21 +145,7 @@ select {
 	width: auto!important;
 }
 
-.fz-13 {
-	font-size: 13px!important;
-}
 
-.fz-14 {
-	font-size: 14px!important
-}
-
-.fz-16 {
-	font-size: 16px!important
-}
-
-.fz-25 {
-	font-size: 25px!important
-}
 
 .font-secondary {
 	font-family: Heebo, sans-serif
@@ -8084,4 +8070,20 @@ color: #0b2653 !important;
 
 .text-left{
 text-align:left !important;
+}
+
+.fz-13 {
+	font-size: 13px!important;
+}
+
+.fz-14 {
+	font-size: 14px!important
+}
+
+.fz-16 {
+	font-size: 16px!important
+}
+
+.fz-25 {
+	font-size: 25px!important
 }
