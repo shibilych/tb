@@ -8081,3 +8081,7 @@ color: #0b2653 !important;
     font-family: 'Lobster', cursive !important;
     font-size: 38px !important;
 }
+
+.text-left{
+text-align:left !important;
+}
