@@ -8075,3 +8075,9 @@ input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required {
 font-size: 40px !important;
 color: #0b2653 !important;
 }
+
+.abquote {
+    color: #0fc886 !important;
+    font-family: 'Lobster', cursive !important;
+    font-size: 38px !important;
+}
